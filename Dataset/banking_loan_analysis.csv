@@ -1,0 +1,6 @@
+loan_type,total_loans,total_loan_amount,average_loan_amount
+Personal Loan,18,1800000,100000
+Home Loan,12,7200000,600000
+Car Loan,15,2250000,150000
+Education Loan,8,800000,100000
+Business Loan,10,5000000,500000
