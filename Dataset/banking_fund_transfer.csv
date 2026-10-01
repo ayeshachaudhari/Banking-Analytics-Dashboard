@@ -1,0 +1,5 @@
+transfer_mode,total_transfers,total_amount
+UPI,42,630000
+NEFT,28,840000
+RTGS,16,1600000
+IMPS,34,680000
