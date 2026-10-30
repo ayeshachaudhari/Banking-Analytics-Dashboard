@@ -7,6 +7,12 @@ BANKING SYSTEM DATABASE
 A MySQL relational database schema for a retail banking system, covering branches, customers, accounts, transactions, fund transfers, loans, cards, ATMs, employees, and beneficiaries - plus a set of analytical views, dashboard queries, and stored procedures.
 
 
+![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/Language-SQL-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+---
+
 OVERVIEW
 --------
 
